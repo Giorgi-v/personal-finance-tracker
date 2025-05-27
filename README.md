@@ -13,6 +13,12 @@ It’s designed to help manage personal budgets.
   - Balance
   - Breakdown by category
 
+## Preview
+
+![Demo1](./assets/demo1.gif)
+![Demo2](./assets/demo2.gif)
+
+
 ## License
 
 This project is for educational use only.

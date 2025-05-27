@@ -52,6 +52,8 @@ class CSV:
             print(f"Total Income: ${total_income:.2f}")
             print(f"Total Expense: ${total_expense:.2f}")
             print(f"Net Savings: ${(total_income - total_expense):.2f}")
+        
+        return filtered_df
 
 def add():
     CSV.initialize_csv()
